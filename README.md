@@ -442,6 +442,6 @@ For integrating additional VCU services:
 - *Manjari Kumarappan*  - *VCU da Vinci Center for Innovation* - Mentor
 - *Lukasz Kurgan* - *VCU Computer Science Department* - Faculty Advisor
 - *Tariq Gafar* - *Computer Science* - Student Team Member
-- *DaJuan Hackett* - *Computer Science* - Student Team Member
+- *DaJuan Hackett* - *Computer Science* - Student Team Member - hackettdajuan1@gmail.com
 - *Ziad Kashef* - *Computer Science* - Student Team Member - ziadkashef@gmail.com
 - *Raleigh Norris* - *Computer Science* - Student Team Member
